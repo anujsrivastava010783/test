@@ -15,7 +15,7 @@ public class StringExample {
 		  System.out.println("value of text is:"+text);
 		}
 		System.out.println(text); 
-
+System.out.println("Hello Anuj"); 
 	}
 
 }
